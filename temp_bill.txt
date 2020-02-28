@@ -1,0 +1,8 @@
+Username	: ghirihari
+Mobile		: 9789409449
+Address	: 162,Theppakulam Street,RSPuram
+Pin 		: 641001
+
+S.no	Food		Price	Prep Time	Hotel Name
+Anandhaas	Idly Sambar	25Rs
+25Rs
